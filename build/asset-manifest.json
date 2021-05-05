@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8a0c2f70.chunk.css",
+    "main.js": "/static/js/main.e00969be.chunk.js",
+    "main.js.map": "/static/js/main.e00969be.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.840a90da.js",
+    "runtime-main.js.map": "/static/js/runtime-main.840a90da.js.map",
+    "static/js/2.6964cd98.chunk.js": "/static/js/2.6964cd98.chunk.js",
+    "static/js/2.6964cd98.chunk.js.map": "/static/js/2.6964cd98.chunk.js.map",
+    "static/js/3.022545fd.chunk.js": "/static/js/3.022545fd.chunk.js",
+    "static/js/3.022545fd.chunk.js.map": "/static/js/3.022545fd.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.8a0c2f70.chunk.css.map": "/static/css/main.8a0c2f70.chunk.css.map",
+    "static/js/2.6964cd98.chunk.js.LICENSE.txt": "/static/js/2.6964cd98.chunk.js.LICENSE.txt",
+    "static/media/AnimalBioSafetyLabs.c87ed9b2.jpg": "/static/media/AnimalBioSafetyLabs.c87ed9b2.jpg",
+    "static/media/ArthopodBiosafety.20d1df1e.jpg": "/static/media/ArthopodBiosafety.20d1df1e.jpg",
+    "static/media/BioSafetyLabsFacility.ba19c2c3.jpg": "/static/media/BioSafetyLabsFacility.ba19c2c3.jpg",
+    "static/media/BiosafetyLabValidation.9d486f43.jpg": "/static/media/BiosafetyLabValidation.9d486f43.jpg",
+    "static/media/CleanRoom.12f4a4c6.jpg": "/static/media/CleanRoom.12f4a4c6.jpg",
+    "static/media/DunkTank.bf71dc45.jpg": "/static/media/DunkTank.bf71dc45.jpg",
+    "static/media/GarmentCubicle.260edf3f.jpg": "/static/media/GarmentCubicle.260edf3f.jpg",
+    "static/media/LargeScaleAnimalFacility.17decb88.jpg": "/static/media/LargeScaleAnimalFacility.17decb88.jpg",
+    "static/media/PassBox.4bf9bacd.jpg": "/static/media/PassBox.4bf9bacd.jpg",
+    "static/media/certificate-logo.886b40dc.JPG": "/static/media/certificate-logo.886b40dc.JPG",
+    "static/media/contact-us.4b64cc7f.jpg": "/static/media/contact-us.4b64cc7f.jpg",
+    "static/media/intro-pic-dna.92cef3ee.jpg": "/static/media/intro-pic-dna.92cef3ee.jpg",
+    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg",
+    "static/media/services.0015778f.jpg": "/static/media/services.0015778f.jpg",
+    "static/media/wallpaper.1464c11d.jpg": "/static/media/wallpaper.1464c11d.jpg",
+    "static/media/welcome-li.9fa13dfa.jpg": "/static/media/welcome-li.9fa13dfa.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.840a90da.js",
+    "static/js/2.6964cd98.chunk.js",
+    "static/css/main.8a0c2f70.chunk.css",
+    "static/js/main.e00969be.chunk.js"
+  ]
+}
