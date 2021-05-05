@@ -15,7 +15,7 @@ export const ProductItem = (props) => {
         case "BioSafetyLabsFacility":       title = "BioSafety Labs Facility"; break;
         default: break;
     }
-    let href = "/products/" + props.itemName;
+    let href = "./products/" + props.itemName;
     return (
         <div className="product-item bb-8-green">
             <img src={props.src} alt={props.itemName} />

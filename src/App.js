@@ -22,7 +22,7 @@ import BioSafetyLabsFacility from "./Images/BioSafetyLabsFacility.jpg"
 
 function App() {
 	return (
-		<Router>
+		<Router basename="LabInnovision-ReactJs">
 			<Header title="LabInnovision"/>
 			<Switch>
 				<Route exact path="/">
