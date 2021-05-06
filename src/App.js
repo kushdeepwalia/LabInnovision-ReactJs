@@ -148,7 +148,13 @@ function App() {
 						work with dangerous/exotic agents with a high risk of aerosol transmitted lab infections and Life- threatening disease."
 					/>
 				</Route>
-
+				<Route path="/" render={() => {
+                    return (
+                      <Redirect to="/" /> 
+                    )}
+				}>
+					<Home />
+				</Route>
 			</Switch>
 			<Footer />
 		</Router>
