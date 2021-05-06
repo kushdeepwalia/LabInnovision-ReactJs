@@ -25,7 +25,7 @@ function App() {
 		<Router basename="LabInnovision-ReactJs">
 			<Header title="LabInnovision"/>
 			<Switch>
-				<Route exact path="/">
+				<Route exact path="/index">
 					<Home />
 				</Route>
 				<Route exact path="/about">
@@ -40,7 +40,7 @@ function App() {
 				<Route exact path="/our-work">
 					<OurWork />
 				</Route>
-				<Route exact path="/contact">
+				<Route path="/contact">
 					<Contact />
 				</Route>
 				<Route exact path="/products/CleanRoom">
@@ -140,6 +140,9 @@ function App() {
 						p5="BSL 4-
 						work with dangerous/exotic agents with a high risk of aerosol transmitted lab infections and Life- threatening disease."
 					/>
+				</Route>
+				<Route path="/">
+					<Home />
 				</Route>
 
 			</Switch>
