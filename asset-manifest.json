@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/LabInnovision-ReactJs/static/css/main.8a0c2f70.chunk.css",
-    "main.js": "/LabInnovision-ReactJs/static/js/main.1a782a52.chunk.js",
-    "main.js.map": "/LabInnovision-ReactJs/static/js/main.1a782a52.chunk.js.map",
+    "main.css": "/LabInnovision-ReactJs/static/css/main.427051c4.chunk.css",
+    "main.js": "/LabInnovision-ReactJs/static/js/main.0272c1b3.chunk.js",
+    "main.js.map": "/LabInnovision-ReactJs/static/js/main.0272c1b3.chunk.js.map",
     "runtime-main.js": "/LabInnovision-ReactJs/static/js/runtime-main.c4723f1c.js",
     "runtime-main.js.map": "/LabInnovision-ReactJs/static/js/runtime-main.c4723f1c.js.map",
-    "static/js/2.6964cd98.chunk.js": "/LabInnovision-ReactJs/static/js/2.6964cd98.chunk.js",
-    "static/js/2.6964cd98.chunk.js.map": "/LabInnovision-ReactJs/static/js/2.6964cd98.chunk.js.map",
+    "static/js/2.52ab64ae.chunk.js": "/LabInnovision-ReactJs/static/js/2.52ab64ae.chunk.js",
+    "static/js/2.52ab64ae.chunk.js.map": "/LabInnovision-ReactJs/static/js/2.52ab64ae.chunk.js.map",
     "static/js/3.022545fd.chunk.js": "/LabInnovision-ReactJs/static/js/3.022545fd.chunk.js",
     "static/js/3.022545fd.chunk.js.map": "/LabInnovision-ReactJs/static/js/3.022545fd.chunk.js.map",
     "index.html": "/LabInnovision-ReactJs/index.html",
-    "static/css/main.8a0c2f70.chunk.css.map": "/LabInnovision-ReactJs/static/css/main.8a0c2f70.chunk.css.map",
-    "static/js/2.6964cd98.chunk.js.LICENSE.txt": "/LabInnovision-ReactJs/static/js/2.6964cd98.chunk.js.LICENSE.txt",
+    "static/css/main.427051c4.chunk.css.map": "/LabInnovision-ReactJs/static/css/main.427051c4.chunk.css.map",
+    "static/js/2.52ab64ae.chunk.js.LICENSE.txt": "/LabInnovision-ReactJs/static/js/2.52ab64ae.chunk.js.LICENSE.txt",
     "static/media/AnimalBioSafetyLabs.c87ed9b2.jpg": "/LabInnovision-ReactJs/static/media/AnimalBioSafetyLabs.c87ed9b2.jpg",
     "static/media/ArthopodBiosafety.20d1df1e.jpg": "/LabInnovision-ReactJs/static/media/ArthopodBiosafety.20d1df1e.jpg",
     "static/media/BioSafetyLabsFacility.ba19c2c3.jpg": "/LabInnovision-ReactJs/static/media/BioSafetyLabsFacility.ba19c2c3.jpg",
@@ -27,12 +27,22 @@
     "static/media/logo.6ce24c58.svg": "/LabInnovision-ReactJs/static/media/logo.6ce24c58.svg",
     "static/media/services.0015778f.jpg": "/LabInnovision-ReactJs/static/media/services.0015778f.jpg",
     "static/media/wallpaper.1464c11d.jpg": "/LabInnovision-ReactJs/static/media/wallpaper.1464c11d.jpg",
-    "static/media/welcome-li.9fa13dfa.jpg": "/LabInnovision-ReactJs/static/media/welcome-li.9fa13dfa.jpg"
+    "static/media/welcome-li.9fa13dfa.jpg": "/LabInnovision-ReactJs/static/media/welcome-li.9fa13dfa.jpg",
+    "static/media/work-1.50db000d.jpg": "/LabInnovision-ReactJs/static/media/work-1.50db000d.jpg",
+    "static/media/work-10.c2425e8c.png": "/LabInnovision-ReactJs/static/media/work-10.c2425e8c.png",
+    "static/media/work-11.20c6f8f5.jpg": "/LabInnovision-ReactJs/static/media/work-11.20c6f8f5.jpg",
+    "static/media/work-12.12e3cf33.jpg": "/LabInnovision-ReactJs/static/media/work-12.12e3cf33.jpg",
+    "static/media/work-13.68fa2143.jpg": "/LabInnovision-ReactJs/static/media/work-13.68fa2143.jpg",
+    "static/media/work-16.8f8cefac.jpg": "/LabInnovision-ReactJs/static/media/work-16.8f8cefac.jpg",
+    "static/media/work-17.2c8129b1.jpg": "/LabInnovision-ReactJs/static/media/work-17.2c8129b1.jpg",
+    "static/media/work-2.84c76fb8.jpg": "/LabInnovision-ReactJs/static/media/work-2.84c76fb8.jpg",
+    "static/media/work-3.967160d8.jpg": "/LabInnovision-ReactJs/static/media/work-3.967160d8.jpg",
+    "static/media/work-8.c46cf05a.png": "/LabInnovision-ReactJs/static/media/work-8.c46cf05a.png"
   },
   "entrypoints": [
     "static/js/runtime-main.c4723f1c.js",
-    "static/js/2.6964cd98.chunk.js",
-    "static/css/main.8a0c2f70.chunk.css",
-    "static/js/main.1a782a52.chunk.js"
+    "static/js/2.52ab64ae.chunk.js",
+    "static/css/main.427051c4.chunk.css",
+    "static/js/main.0272c1b3.chunk.js"
   ]
 }
