@@ -13,7 +13,7 @@ export const Header = (props) => {
                 </div>
                 <nav className="nav">
                     <ul className="navigation">
-                        <li className="inactive"><Link to="/index">Home</Link></li>
+                        <li className="inactive"><Link to="/">Home</Link></li>
                         <li className="inactive"><Link to="/about">About Us</Link></li>
                         <li className="inactive"><Link to="/products">Products</Link></li>
                         <li className="inactive"><Link to="/services">Services</Link></li>

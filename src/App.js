@@ -7,7 +7,7 @@ import { Products } from "./MyComponents/Products";
 import { Services } from "./MyComponents/Services";
 import { OurWork } from "./MyComponents/OurWork";
 import { Contact } from "./MyComponents/Contact";
-import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
+import { BrowserRouter as Router, Switch, Route, Redirect } from "react-router-dom";
 import './MyComponents/css/style.css'
 import { ProductPage } from './MyComponents/ProductPage';
 import CleanRoom from "./Images/CleanRoom.jpg"
@@ -25,7 +25,7 @@ function App() {
 		<Router basename="LabInnovision-ReactJs">
 			<Header title="LabInnovision"/>
 			<Switch>
-				<Route exact path="/index">
+				<Route exact path="/">
 					<Home />
 				</Route>
 				<Route exact path="/about">
@@ -40,8 +40,15 @@ function App() {
 				<Route exact path="/our-work">
 					<OurWork />
 				</Route>
-				<Route path="/contact">
+				<Route exact path="/contact">
 					<Contact />
+				</Route>
+				<Route path="/contact?name=" render={() => {
+                    return (
+                      <Redirect to="/contact" /> 
+                    )}
+				}>
+
 				</Route>
 				<Route exact path="/products/CleanRoom">
 					<ProductPage
@@ -140,9 +147,6 @@ function App() {
 						p5="BSL 4-
 						work with dangerous/exotic agents with a high risk of aerosol transmitted lab infections and Life- threatening disease."
 					/>
-				</Route>
-				<Route path="/">
-					<Home />
 				</Route>
 
 			</Switch>
