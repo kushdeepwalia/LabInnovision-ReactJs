@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/LabInnovision-ReactJs/static/css/main.427051c4.chunk.css",
-    "main.js": "/LabInnovision-ReactJs/static/js/main.680c074d.chunk.js",
-    "main.js.map": "/LabInnovision-ReactJs/static/js/main.680c074d.chunk.js.map",
-    "runtime-main.js": "/LabInnovision-ReactJs/static/js/runtime-main.c4723f1c.js",
-    "runtime-main.js.map": "/LabInnovision-ReactJs/static/js/runtime-main.c4723f1c.js.map",
-    "static/js/2.8a13e68f.chunk.js": "/LabInnovision-ReactJs/static/js/2.8a13e68f.chunk.js",
-    "static/js/2.8a13e68f.chunk.js.map": "/LabInnovision-ReactJs/static/js/2.8a13e68f.chunk.js.map",
-    "static/js/3.022545fd.chunk.js": "/LabInnovision-ReactJs/static/js/3.022545fd.chunk.js",
-    "static/js/3.022545fd.chunk.js.map": "/LabInnovision-ReactJs/static/js/3.022545fd.chunk.js.map",
+    "main.css": "/LabInnovision-ReactJs/static/css/main.8c576ab7.chunk.css",
+    "main.js": "/LabInnovision-ReactJs/static/js/main.ff369db7.chunk.js",
+    "main.js.map": "/LabInnovision-ReactJs/static/js/main.ff369db7.chunk.js.map",
+    "runtime-main.js": "/LabInnovision-ReactJs/static/js/runtime-main.2c2cc86e.js",
+    "runtime-main.js.map": "/LabInnovision-ReactJs/static/js/runtime-main.2c2cc86e.js.map",
+    "static/js/2.f55da8e1.chunk.js": "/LabInnovision-ReactJs/static/js/2.f55da8e1.chunk.js",
+    "static/js/2.f55da8e1.chunk.js.map": "/LabInnovision-ReactJs/static/js/2.f55da8e1.chunk.js.map",
+    "static/js/3.cb439f2e.chunk.js": "/LabInnovision-ReactJs/static/js/3.cb439f2e.chunk.js",
+    "static/js/3.cb439f2e.chunk.js.map": "/LabInnovision-ReactJs/static/js/3.cb439f2e.chunk.js.map",
     "index.html": "/LabInnovision-ReactJs/index.html",
-    "static/css/main.427051c4.chunk.css.map": "/LabInnovision-ReactJs/static/css/main.427051c4.chunk.css.map",
-    "static/js/2.8a13e68f.chunk.js.LICENSE.txt": "/LabInnovision-ReactJs/static/js/2.8a13e68f.chunk.js.LICENSE.txt",
+    "static/css/main.8c576ab7.chunk.css.map": "/LabInnovision-ReactJs/static/css/main.8c576ab7.chunk.css.map",
+    "static/js/2.f55da8e1.chunk.js.LICENSE.txt": "/LabInnovision-ReactJs/static/js/2.f55da8e1.chunk.js.LICENSE.txt",
     "static/media/AnimalBioSafetyLabs.c87ed9b2.jpg": "/LabInnovision-ReactJs/static/media/AnimalBioSafetyLabs.c87ed9b2.jpg",
     "static/media/ArthopodBiosafety.20d1df1e.jpg": "/LabInnovision-ReactJs/static/media/ArthopodBiosafety.20d1df1e.jpg",
     "static/media/BioSafetyLabsFacility.ba19c2c3.jpg": "/LabInnovision-ReactJs/static/media/BioSafetyLabsFacility.ba19c2c3.jpg",
@@ -40,9 +40,9 @@
     "static/media/work-8.c46cf05a.png": "/LabInnovision-ReactJs/static/media/work-8.c46cf05a.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.c4723f1c.js",
-    "static/js/2.8a13e68f.chunk.js",
-    "static/css/main.427051c4.chunk.css",
-    "static/js/main.680c074d.chunk.js"
+    "static/js/runtime-main.2c2cc86e.js",
+    "static/js/2.f55da8e1.chunk.js",
+    "static/css/main.8c576ab7.chunk.css",
+    "static/js/main.ff369db7.chunk.js"
   ]
 }
