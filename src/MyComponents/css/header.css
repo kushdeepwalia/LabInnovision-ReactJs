@@ -1,21 +1,3 @@
-* {
-  padding: 0;
-  margin: 0;
-  box-sizing: border-box;
-}
-
-.header {
-  display: flex;
-  position: sticky;
-  top: 0px;
-  background-color: white;
-  z-index: 150;
-  height: 12vh;
-  justify-content: space-between;
-  align-items: center;
-  font-family: Montserrat, sans-serif;
-}
-
 .webName {
   display: flex;
   justify-content: center;
@@ -35,18 +17,6 @@
   text-transform: uppercase;
 }
 
-.nav {
-  width: 45vw;
-  padding-right: 10px;
-}
-
-.nav ul {
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-  height: 40px;
-  padding: 7px;
-}
 
 .nav ul li {
   color: rgb(37, 56, 60);
@@ -61,7 +31,26 @@
   cursor: pointer;
 }
 
-.nav ul li.active {
-  color: rgb(143, 236, 51);
+/* linking tag to the Li (List) */
+.navigation li a{
+  text-decoration: none;
+  width: 90px;
+}
+/* Inactive li -> anchor tag */
+.navigation li.inactive a{
+  color: dimgrey;
+  display: flex;
+  justify-content: center;
+}
+/* Inactive li -> anchor tag : HOVER */
+.navigation li.inactive a:hover{
+  color: #8fec33;
+  border-bottom: 1px solid #8fec33;
+}
+/* Active li */
+.navigation li.active a{
+  color: #8fec33;
   border-bottom: none;
+  display: flex;
+  justify-content: center;
 }
